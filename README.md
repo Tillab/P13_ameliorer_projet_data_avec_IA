@@ -5,7 +5,7 @@ Projet 13 OpenClassrooms
 Les outils d’intelligence artificielle transforment les pratiques des analystes de données. Dans ce projet, j’ai utilisé un assistant IA de manière critique et méthodique pour améliorer un précédent projet d’analyse consacré à la gestion des données d’une boutique en ligne. J’ai ciblé deux axes : le nettoyage des données et la détection des valeurs aberrantes.
 Pour le nettoyage, j’ai comparé des pipelines utilisant Pandas et Polars sur des jeux de données de tailles différentes. Pour la détection des anomalies, j’ai comparé des méthodes statistiques fondées sur le Z-score et l’écart interquartile à des méthodes multivariées, dont Isolation Forest et Local Outlier Factor (LOF).
 
-<img src = presentation/P13_Figure_A2.jpg height = 400 >
+<img src = presentation/P13_Figure_A2.jpg height = 350 >
 
 ### Résultats et impact
 Ce travail m’a permis de comparer différentes approches selon leurs performances, leur reproductibilité, leur interprétabilité et leur complexité, tout en développant une démarche plus systématique d’utilisation de l’IA pour coder et d’évaluation critique des suggestions produites.
